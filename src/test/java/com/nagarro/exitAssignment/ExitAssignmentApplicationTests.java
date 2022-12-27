@@ -4,10 +4,15 @@ import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExitAssignmentApplicationTests {
+public class ExitAssignmentApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
+	}
+	
+	public ExitAssignmentApplicationTests() {
+		super();
+		// TODO Auto-generated constructor stub
 	}
 
 }
